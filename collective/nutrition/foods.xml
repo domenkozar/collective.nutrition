@@ -1,0 +1,58 @@
+<?xml version="1.0"?> 
+<foods>
+  <food><entry>entry999</entry>
+    <potassium>23</potassium>
+    <beta-cryptoxanthin>0</beta-cryptoxanthin>
+    <calcium>25</calcium>
+    <Pantothenic_acid>0.12</Pantothenic_acid>
+    <iron>0.02</iron>
+    <sodium>576</sodium>
+    <Monounsaturated_fatty_acids>21.021</Monounsaturated_fatty_acids>
+    <Vitamin_A>60</Vitamin_A>
+    <copper>0</copper>
+    <gmwt_desc2>1 tbsp</gmwt_desc2>
+    <ash>2.11</ash>
+    <niacin>0.042</niacin>
+    <folic_acid>0</folic_acid>
+    <cholesterol>215</cholesterol>
+    <food_folate>3</food_folate>
+    <saturated_fatty_acid>51.368</saturated_fatty_acid>
+    <energy>717</energy>
+    <vitamin_B6>0.004</vitamin_B6>
+    <magnesium>2</magnesium>
+    <choline_total>18.8</choline_total>
+    <gmwt_desc1>1 cup</gmwt_desc1>
+    <vitamin_c>0</vitamin_c>
+    <lycopene>0</lycopene>
+    <ndb_no>01001</ndb_no>
+    <lutein_zeazanthin>0</lutein_zeazanthin>
+    <percent_refuse>0</percent_refuse>
+    <riboflavin>0.034</riboflavin>
+    <total_dietary_fiber>0</total_dietary_fiber>
+    <water>15.88</water>
+    <vitamin_b12>0.17</vitamin_b12>
+    <folate_total>3</folate_total>
+    <phosphorus>24</phosphorus>
+    <sugar_total>0.06</sugar_total>
+    <title>BUTTER,WITH SALT</title>
+    <alpha_carot>0</alpha_carot>
+    <manganese>0</manganese>
+    <gmwt_1>227</gmwt_1>
+    <carbohydrate_by_difference>0.06</carbohydrate_by_difference>
+    <zinc>0.09</zinc>
+    <retinol>672</retinol>
+    <gmwt_2>14.2</gmwt_2>
+    <folate_dietary_folate_equivalents>3</folate_dietary_folate_equivalents>
+    <polyunsaturated_fatty_acids>3.043</polyunsaturated_fatty_acids>
+    <vitamin_A_retinol_activity_equivalents>684</vitamin_A_retinol_activity_equivalents>
+    <selenium>1</selenium>
+    <protein>0.85</protein>
+    <total_lipid_fat>81.11</total_lipid_fat>
+    <vitamin_k>7</vitamin_k>
+    <thiamin>0.005</thiamin>
+    <Vitamin_A_IU>2499</Vitamin_A_IU>
+    <beta-carotene>158</beta-carotene>
+    <vitamin_D>1.9</vitamin_D>
+    <vitamin_e>2.32</vitamin_e>
+ </food>
+</foods>

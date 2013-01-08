@@ -1,0 +1,4 @@
+<object name="portal_types">
+ <object name="collective.nutrition.food" meta_type="Dexterity FTI" />
+ <object name="collective.nutrition.recipe" meta_type="Dexterity FTI" />
+</object>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<object name="portal_catalog">
+    <index name="alpha_carot" meta_type="FieldIndex">
+        <indexed_attr value="alpha_carot"/>
+    </index>
+    <column value="alpha_carot"/>
+    <index name="ash" meta_type="FieldIndex">
+        <indexed_attr value="ash"/>
+    </index>
+    <column value="ash"/>
+    <index name="ndb_no" meta_type="FieldIndex">
+        <indexed_attr value="ndb_no"/>
+    </index>
+    <column value="ndb_no"/>
+    <index name="alcohol" meta_type="FieldIndex">
+        <indexed_attr value="alcohol"/>
+    </index>
+    <column value="alcohol"/>
+    <index name="beta_carotene" meta_type="FieldIndex">
+        <indexed_attr value="beta_carotene"/>
+    </index>
+    <column value="beta_carotene"/>
+    <index name="beta_cryptoxanthin" meta_type="FieldIndex">
+        <indexed_attr value="beta_cryptoxanthin"/>
+    </index>
+    <column value="beta_cryptoxanthin"/>
+    <index name="calcium" meta_type="FieldIndex">
+        <indexed_attr value="calcium"/>
+    </index>
+    <column value="calcium"/>
+    <index name="carbohydrate_by_difference" meta_type="FieldIndex">
+        <indexed_attr value="carbohydrate_by_difference"/>
+    </index>
+    <column value="carbohydrate_by_difference"/>
+    <index name="cholesterol" meta_type="FieldIndex">
+        <indexed_attr value="cholesterol"/>
+    </index>
+    <column value="cholesterol"/>
+    <index name="choline_total" meta_type="FieldIndex">
+        <indexed_attr value="choline_total"/>
+    </index>
+    <column value="choline_total"/>
+    <index name="copper" meta_type="FieldIndex">
+        <indexed_attr value="copper"/>
+    </index>
+    <column value="copper"/>
+    <index name="energy" meta_type="FieldIndex">
+        <indexed_attr value="energy"/>
+    </index>
+    <column value="energy"/>
+    <index name="folate_dietary_folate_equivalents" meta_type="FieldIndex">
+        <indexed_attr value="folate_dietary_folate_equivalents"/>
+    </index>
+    <column value="folate_dietary_folate_equivalents"/>
+    <index name="folate_total" meta_type="FieldIndex">
+        <indexed_attr value="folate_total"/>
+    </index>
+    <column value="folate_total"/>
+    <index name="folic_acid" meta_type="FieldIndex">
+        <indexed_attr value="folic_acid"/>
+    </index>
+    <column value="folic_acid"/>
+    <index name="food_folate" meta_type="FieldIndex">
+        <indexed_attr value="food_folate"/>
+    </index>
+    <column value="food_folate"/>
+    <index name="iron" meta_type="FieldIndex">
+        <indexed_attr value="iron"/>
+    </index>
+    <column value="iron"/>
+    <index name="lutein_zeazanthin" meta_type="FieldIndex">
+        <indexed_attr value="lutein_zeazanthin"/>
+    </index>
+    <column value="lutein_zeazanthin"/>
+    <index name="lycopene" meta_type="FieldIndex">
+        <indexed_attr value="lycopene"/>
+    </index>
+    <column value="lycopene"/>
+    <index name="magnesium" meta_type="FieldIndex">
+        <indexed_attr value="magnesium"/>
+    </index>
+    <column value="magnesium"/>
+    <index name="manganese" meta_type="FieldIndex">
+        <indexed_attr value="manganese"/>
+    </index>
+    <column value="manganese"/>
+    <index name="monounstaturated_fatty_acids" meta_type="FieldIndex">
+        <indexed_attr value="monounstaturated_fatty_acids"/>
+    </index>
+    <column value="monounstaturated_fatty_acids"/>
+    <index name="niacin" meta_type="FieldIndex">
+        <indexed_attr value="niacin"/>
+    </index>
+    <column value="niacin"/>
+    <index name="pantothenic_acid" meta_type="FieldIndex">
+        <indexed_attr value="pantothenic_acid"/>
+    </index>
+    <column value="pantothenic_acid"/>
+    <index name="percent_refuse" meta_type="FieldIndex">
+        <indexed_attr value="percent_refuse"/>
+    </index>
+    <column value="percent_refuse"/>
+    <index name="phosphorus" meta_type="FieldIndex">
+        <indexed_attr value="phosphorus"/>
+    </index>
+    <column value="phosphorus"/>
+    <index name="polyunsaturated_fatty_acids" meta_type="FieldIndex">
+        <indexed_attr value="polyunsaturated_fatty_acids"/>
+    </index>
+    <column value="polyunsaturated_fatty_acids"/>
+    <index name="potassium" meta_type="FieldIndex">
+        <indexed_attr value="potassium"/>
+    </index>
+    <column value="potassium"/>
+    <index name="protein" meta_type="FieldIndex">
+        <indexed_attr value="protein"/>
+    </index>
+    <column value="protein"/>
+    <index name="retinol" meta_type="FieldIndex">
+        <indexed_attr value="retinol"/>
+    </index>
+    <column value="retinol"/>
+    <index name="riboflavin" meta_type="FieldIndex">
+        <indexed_attr value="riboflavin"/>
+    </index>
+    <column value="riboflavin"/>
+    <index name="saturated_fatty_acid" meta_type="FieldIndex">
+        <indexed_attr value="saturated_fatty_acid"/>
+    </index>
+    <column value="saturated_fatty_acid"/>
+    <index name="selenium" meta_type="FieldIndex">
+        <indexed_attr value="selenium"/>
+    </index>
+    <column value="selenium"/>
+    <index name="sodium" meta_type="FieldIndex">
+        <indexed_attr value="sodium"/>
+    </index>
+    <column value="sodium"/>
+    <index name="sugar_total" meta_type="FieldIndex">
+        <indexed_attr value="sugar_total"/>
+    </index>
+    <column value="sugar_total"/>
+    <index name="thiamin" meta_type="FieldIndex">
+        <indexed_attr value="thiamin"/>
+    </index>
+    <column value="thiamin"/>
+    <index name="total_dietary_fiber" meta_type="FieldIndex">
+        <indexed_attr value="total_dietary_fiber"/>
+    </index>
+    <column value="total_dietary_fiber"/>
+    <index name="total_lipid_fat" meta_type="FieldIndex">
+        <indexed_attr value="total_lipid_fat"/>
+    </index>
+    <column value="total_lipid_fat"/>
+    <index name="vitamin_a" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_a"/>
+    </index>
+    <column value="vitamin_a"/>
+    <index name="vitamin_a_iu" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_a_iu"/>
+    </index>
+    <column value="vitamin_a_iu"/>
+    <index name="vitamin_a_retinol_activity_equivalents" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_a_retinol_activity_equivalents"/>
+    </index>
+    <column value="vitamin_a_retinol_activity_equivalents"/>
+    <index name="vitamin_b12" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_b12"/>
+    </index>
+    <column value="vitamin_b12"/>
+    <index name="vitamin_b6" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_b6"/>
+    </index>
+    <column value="vitamin_b6"/>
+    <index name="vitamin_c" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_c"/>
+    </index>
+    <column value="vitamin_c"/>
+    <index name="vitamin_d" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_d"/>
+    </index>
+    <column value="vitamin_d"/>
+    <index name="vitamin_e" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_e"/>
+    </index>
+    <column value="vitamin_e"/>
+    <index name="vitamin_k" meta_type="FieldIndex">
+        <indexed_attr value="vitamin_k"/>
+    </index>
+    <column value="vitamin_k"/>
+    <index name="water" meta_type="FieldIndex">
+        <indexed_attr value="water"/>
+    </index>
+    <column value="water"/>
+    <index name="zinc" meta_type="FieldIndex">
+        <indexed_attr value="zinc"/>
+    </index>
+    <column value="zinc"/>
+</object>
